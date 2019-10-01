@@ -1,0 +1,10 @@
+$font-stack:    Helvetica, sans-serif;
+$primary-color: rgb(36, 36, 36);
+$accent-colour: #9e00ff;
+
+body {
+  font: 100% $font-stack;
+  background-color: $primary-color;
+  height: 100%;
+  width: 100%;
+}
